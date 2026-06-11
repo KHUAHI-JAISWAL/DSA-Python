@@ -1,3 +1,20 @@
+Approach 1:
+Linear Search (Brute Force)
+Time: O(n)
+Space: O(1)
+
+Approach 2:
+Binary Search (Optimal)
+Time: O(log n)
+Space: O(1)
+
+Since the array is sorted, Binary Search is the best approach.
+
+
+
+
+
+
 ## Approach (Brute Force)
 
 1. Traverse the array from left to right.
